@@ -249,10 +249,10 @@ add_filter('gettext', 'howdy_message', 10, 3);
 
 
 /* Will Percey Functionality */
-require_once( __DIR__ . '/functionality/security.php');
-require_once(__DIR__ . '/functionality/removeyoastcomments.php');
-//require_once(__DIR__ . '/functionality/404page/404page.php');
-require_once(__DIR__ . '/functionality/duplicate_post.php');
-//require_once(__DIR__ . '/functionality/clientdashboards.php');
+require_once __DIR__ . '/functionality/security.php';
+require_once __DIR__ . '/functionality/removeyoastcomments.php';
+//require_once __DIR__ . '/functionality/404page/404page.php';
+require_once __DIR__ . '/functionality/duplicate_post.php';
+//require_once __DIR__ . '/functionality/clientdashboards.php';
 
 /* End Will Percey Functionality */
