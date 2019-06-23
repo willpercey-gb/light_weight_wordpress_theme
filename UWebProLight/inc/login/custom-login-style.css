@@ -1,5 +1,5 @@
 #login h1 a, .login h1 a {
-            background-image: url("/wp-content/themes/UWebProLight/inc/login/swish400x400.png");
+            background-image: url("/wp-content/themes/UWebProLight/inc/login/logo_small.jpg");
 			background-position:bottom center;
 			width:100%;
 			background-size: contain;
@@ -7,11 +7,7 @@
         	padding: 30px 0;
         }
 Body.login{
-	background-image:url("/wp-content/themes/UWebProLight/inc/login/purple-flip-bg-2.png");
-	background-repeat:no-repeat;
-	background-attachment:fixed;
-	background-position:cover;
-	background-size: cover;
+	background: #312450;
 }
 		
 		/*.login-action-login {
