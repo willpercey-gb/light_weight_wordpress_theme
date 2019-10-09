@@ -1,5 +1,5 @@
 #login h1 a, .login h1 a {
-            background-image: url("/wp-content/themes/GarbottLight/inc/login/logo_small.jpg");
+            background-image: url("/wp-content/themes/GarbottLight/inc/login/logo.png");
 			background-position:bottom center;
 			width:100%;
 			background-size: contain;
@@ -7,7 +7,7 @@
         	padding: 30px 0;
         }
 Body.login{
-	background: #312450;
+	background: #222f4a;
 }
 		
 		/*.login-action-login {
@@ -32,8 +32,8 @@ Body.login{
 			text-decoration: none;
 		    border-radius: 0;
 			color: #fff;
-			background: #6b58a1;
-			border: 2px solid #6b58a1 !important;
+			background: #222f4a;
+			border: 2px solid #222f4a !important;
 			text-decoration: none;
 			-webkit-transition: all .4s linear !important;
 			-moz-transition: all .4s linear !important;
@@ -51,9 +51,9 @@ Body.login{
 			border-color: #000;
 			text-decoration: none;
 			border-radius: 0;
-			color: #6b58a1 !important;
+			color: #222f4a !important;
 			box-shadow: inset -150px 50px 0 #fff, inset 150px -50px 0 #fff !important;
-			border: 2px solid #6b58a1 !important;
+			border: 2px solid #222f4a !important;
 			-webkit-transition: all .4s linear !important;
 			-moz-transition: all .4s linear !important;
 			transition: all .4s linear !important;
